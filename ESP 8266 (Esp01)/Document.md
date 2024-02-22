@@ -5,7 +5,7 @@
 | TX  |    TX   |  Tranfer                        |
 | VCC |   3.3V  |  Power                          |
 | EN  |   3.3V  |  Enabler                        |
-| IO0 | GND/Out | To GND (Proframable) / Output   |
+| IO0 | GND/Out | To GND (Programable) / Output   |
 | IO2 |         |                                 |
 | GND |   GND   |   GND                           |
 
