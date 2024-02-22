@@ -9,6 +9,8 @@
 | IO2 |         |                                 |
 | GND |   GND   |   GND                           |
 
+##
+- Total Chip Description https://smartsolutions4home.com/how-to-program-esp8266/
 
 ## Not Covered
 - [ ] Test the Reset Button
