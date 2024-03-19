@@ -1,20 +1,18 @@
 # Points To Remember
-| Pin |Arduino  | Comment|
-|-----|---------|--------|
-| RX  |    RX   |  Rev                            |
-| TX  |    TX   |  Tranfer                        |
-| VCC |   3.3V  |  Power                          |
-| EN  |   3.3V  |  Enabler                        |
-| IO0 | GND/Out | To GND (Programable) / Output   |
-| IO2 |         |                                 |
-| GND |   GND   |   GND                           |
+| Pin |Arduino    | Comment                         |
+|-----|-----------|---------------------------------|
+| RX  |    RX     |  Reciver                        |
+| TX  |    TX     |  Tranfer                        |
+| VCC |   3.3V    |  Power                          |
+| EN  |   3.3V    |  Enabler                        |
+| IO0 |GND/In/Out | To GND (Programable) In/Output  |
+| IO2 |  In/Out   | Gives output (Programable) In/Output |
+| GND |   GND     |   GND                           |
+|Reset|Ground/None| Connected to GND (Resets) Use pushbuutton |
 
 ##
 - Total Chip Description https://smartsolutions4home.com/how-to-program-esp8266/
 
-## Not Covered
-- [ ] Test the Reset Button
-- [ ] IO2 Putton
 
 # Helpfull videos
 
